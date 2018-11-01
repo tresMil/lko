@@ -1,0 +1,431 @@
+#EXTM3U 
+#EXTINF:-1,------- Spanish ---------
+http://e2.iudtv.org:8080/live/tura/123456/1072.ts
+#EXTINF:-1,ES: Taquilla 1
+http://e2.iudtv.org:8080/live/tura/123456/1071.ts
+#EXTINF:-1,ES: Taquilla 2
+http://e2.iudtv.org:8080/live/tura/123456/1070.ts
+#EXTINF:-1,ES: Taquilla 3
+http://e2.iudtv.org:8080/live/tura/123456/1069.ts
+#EXTINF:-1,ES: Taquilla 4
+http://e2.iudtv.org:8080/live/tura/123456/1068.ts
+#EXTINF:-1,ES: Taquilla 5
+http://e2.iudtv.org:8080/live/tura/123456/1067.ts
+#EXTINF:-1,ES: Taquilla 6
+http://e2.iudtv.org:8080/live/tura/123456/1066.ts
+#EXTINF:-1,ES: Taquilla 7
+http://e2.iudtv.org:8080/live/tura/123456/1065.ts
+#EXTINF:-1,ES: Taquilla 8
+http://e2.iudtv.org:8080/live/tura/123456/1064.ts
+#EXTINF:-1,ES: Taquilla 9
+http://e2.iudtv.org:8080/live/tura/123456/1063.ts
+#EXTINF:-1,ES: Taquilla 10
+http://e2.iudtv.org:8080/live/tura/123456/1062.ts
+#EXTINF:-1,ES: Canal+ Liga
+http://e2.iudtv.org:8080/live/tura/123456/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+http://e2.iudtv.org:8080/live/tura/123456/1012.ts
+#EXTINF:-1,ES: Canal+ Deportes 2 HD
+http://e2.iudtv.org:8080/live/tura/123456/2590.ts
+#EXTINF:-1,ES: Canal+ Futbol
+http://e2.iudtv.org:8080/live/tura/123456/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+http://e2.iudtv.org:8080/live/tura/123456/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+http://e2.iudtv.org:8080/live/tura/123456/1016.ts
+#EXTINF:-1,ES: Canal+ Action
+http://e2.iudtv.org:8080/live/tura/123456/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+http://e2.iudtv.org:8080/live/tura/123456/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+http://e2.iudtv.org:8080/live/tura/123456/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+http://e2.iudtv.org:8080/live/tura/123456/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+http://e2.iudtv.org:8080/live/tura/123456/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+http://e2.iudtv.org:8080/live/tura/123456/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+http://e2.iudtv.org:8080/live/tura/123456/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+http://e2.iudtv.org:8080/live/tura/123456/1026.ts
+#EXTINF:-1,ES: Canal+ Cine
+http://e2.iudtv.org:8080/live/tura/123456/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+http://e2.iudtv.org:8080/live/tura/123456/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+http://e2.iudtv.org:8080/live/tura/123456/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+http://e2.iudtv.org:8080/live/tura/123456/1049.ts
+#EXTINF:-1,ES: Cine latino
+http://e2.iudtv.org:8080/live/tura/123456/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+http://e2.iudtv.org:8080/live/tura/123456/1034.ts
+#EXTINF:-1,ES: Fox HD
+http://e2.iudtv.org:8080/live/tura/123456/1029.ts
+#EXTINF:-1,ES: ECOTV
+http://e2.iudtv.org:8080/live/tura/123456/1047.ts
+#EXTINF:-1,ES: Canal Logos TV
+http://e2.iudtv.org:8080/live/tura/123456/1041.ts
+#EXTINF:-1,ES: Canal+ Divinity
+http://e2.iudtv.org:8080/live/tura/123456/1039.ts
+#EXTINF:-1,ES: 24 Horas
+http://e2.iudtv.org:8080/live/tura/123456/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+http://e2.iudtv.org:8080/live/tura/123456/1003.ts
+#EXTINF:-1,ES: Real Madrid
+http://e2.iudtv.org:8080/live/tura/123456/1037.ts
+#EXTINF:-1,ES: Barca TV
+http://e2.iudtv.org:8080/live/tura/123456/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://e2.iudtv.org:8080/live/tura/123456/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+http://e2.iudtv.org:8080/live/tura/123456/1010.ts
+#EXTINF:-1,ES: Comedy Central
+http://e2.iudtv.org:8080/live/tura/123456/1042.ts
+#EXTINF:-1,ES: Win Sport
+http://e2.iudtv.org:8080/live/tura/123456/1050.ts
+#EXTINF:-1,ES: Clan TVE
+http://e2.iudtv.org:8080/live/tura/123456/1045.ts
+#EXTINF:-1,ES: La 1
+http://e2.iudtv.org:8080/live/tura/123456/1014.ts
+#EXTINF:-1,ES: La 2
+http://e2.iudtv.org:8080/live/tura/123456/1013.ts
+#EXTINF:-1,ES: La  Sexta HD
+http://e2.iudtv.org:8080/live/tura/123456/1017.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://e2.iudtv.org:8080/live/tura/123456/1015.ts
+#EXTINF:-1,ES: SYFY HD
+http://e2.iudtv.org:8080/live/tura/123456/1025.ts
+#EXTINF:-1,ES: TV3 LT
+http://e2.iudtv.org:8080/live/tura/123456/2591.ts
+#EXTINF:-1,ES: AMC HD
+http://e2.iudtv.org:8080/live/tura/123456/2589.ts
+#EXTINF:-1,ES: AXN HD
+http://e2.iudtv.org:8080/live/tura/123456/2588.ts
+#EXTINF:-1,ES: GOL Tv
+http://e2.iudtv.org:8080/live/tura/123456/2585.ts
+#EXTINF:-1,ES: Boing
+http://e2.iudtv.org:8080/live/tura/123456/2586.ts
+#EXTINF:-1,ES: Cosmo HD
+http://e2.iudtv.org:8080/live/tura/123456/2587.ts
+#EXTINF:-1,ES: Telecicno
+http://e2.iudtv.org:8080/live/tura/123456/1053.ts
+#EXTINF:-1,ES: TCM HD
+http://e2.iudtv.org:8080/live/tura/123456/1056.ts
+#EXTINF:-1,ES: 324 Entertainment
+http://e2.iudtv.org:8080/live/tura/123456/1005.ts
+#EXTINF:-1,ES: Fox Life
+http://e2.iudtv.org:8080/live/tura/123456/1060.ts
+#EXTINF:-1,ES: Hollywood
+http://e2.iudtv.org:8080/live/tura/123456/1036.ts
+#EXTINF:-1,ES: Axn White HD
+http://e2.iudtv.org:8080/live/tura/123456/1023.ts
+#EXTINF:-1,ES: History
+http://e2.iudtv.org:8080/live/tura/123456/1051.ts
+#EXTINF:-1,ES: CALLE13 Channel
+http://e2.iudtv.org:8080/live/tura/123456/1009.ts
+#EXTINF:-1,ES: Disney Junior
+http://e2.iudtv.org:8080/live/tura/123456/999.ts
+#EXTINF:-1,ES: Plaze tv
+http://e2.iudtv.org:8080/live/tura/123456/1001.ts
+#EXTINF:-1,ES: FDF
+http://e2.iudtv.org:8080/live/tura/123456/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+http://e2.iudtv.org:8080/live/tura/123456/1027.ts
+#EXTINF:-1,ES: Viajar
+http://e2.iudtv.org:8080/live/tura/123456/1043.ts
+#EXTINF:-1,ES: Teleticino
+http://e2.iudtv.org:8080/live/tura/123456/1008.ts
+#EXTINF:-1,ES: National Geographic
+http://e2.iudtv.org:8080/live/tura/123456/1057.ts
+#EXTINF:-1,ES: National Geographic Wild
+http://e2.iudtv.org:8080/live/tura/123456/1055.ts
+#EXTINF:-1,ES: Disney Chaneel
+http://e2.iudtv.org:8080/live/tura/123456/1040.ts
+#EXTINF:-1,ES: Disney XD
+http://e2.iudtv.org:8080/live/tura/123456/1038.ts
+#EXTINF:-1,ES: TNT
+http://e2.iudtv.org:8080/live/tura/123456/1032.ts
+#EXTINF:-1,ES: TVN Chile HD
+http://e2.iudtv.org:8080/live/tura/123456/1006.ts
+#EXTINF:-1,----------Latino----------
+http://e2.iudtv.org:8080/live/tura/123456/2701.ts
+#EXTINF:-1,ES: Mundial Futbol Option 1 LT
+http://e2.iudtv.org:8080/live/tura/123456/2680.ts
+#EXTINF:-1,ES: Mundial Futbol Option 2 LT
+http://e2.iudtv.org:8080/live/tura/123456/2681.ts
+#EXTINF:-1,ES: Mundial Futbol Option 3 LT
+http://e2.iudtv.org:8080/live/tura/123456/2682.ts
+#EXTINF:-1,ES: Mundial Futbol Option 4 LT
+http://e2.iudtv.org:8080/live/tura/123456/2683.ts
+#EXTINF:-1,ES: Mundial Futbol Option 5 LT
+http://e2.iudtv.org:8080/live/tura/123456/2684.ts
+#EXTINF:-1,ES: Mundial Futbol Option 6 LT
+http://e2.iudtv.org:8080/live/tura/123456/2685.ts
+#EXTINF:-1,ES: Mundial Futbol Option 7 LT
+http://e2.iudtv.org:8080/live/tura/123456/2686.ts
+#EXTINF:-1,ES: Mundial Futbol Option 8 LT
+http://e2.iudtv.org:8080/live/tura/123456/2687.ts
+#EXTINF:-1,ES: Mundial Futbol Option 9 LT
+http://e2.iudtv.org:8080/live/tura/123456/2688.ts
+#EXTINF:-1,ES: Mundial Futbol Option 10 LT
+http://e2.iudtv.org:8080/live/tura/123456/2689.ts
+#EXTINF:-1,ES: AztecaA+ LT
+http://e2.iudtv.org:8080/live/tura/123456/1018.ts
+#EXTINF:-1,ES: Azteca Noticias LT
+http://e2.iudtv.org:8080/live/tura/123456/1061.ts
+#EXTINF:-1,ES: Azteca Uno LT
+http://e2.iudtv.org:8080/live/tura/123456/2583.ts
+#EXTINF:-1,ES: Azteca 7 Monterrey
+http://e2.iudtv.org:8080/live/tura/123456/1035.ts
+#EXTINF:-1,ES: Antena 3 Internacional
+http://e2.iudtv.org:8080/live/tura/123456/1000.ts
+#EXTINF:-1,ES: Golden LT
+http://e2.iudtv.org:8080/live/tura/123456/2567.ts
+#EXTINF:-1,ES: HBO Famly LT
+http://e2.iudtv.org:8080/live/tura/123456/2571.ts
+#EXTINF:-1,ES: Wow TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2558.ts
+#EXTINF:-1,ES: HD 26 LT
+http://e2.iudtv.org:8080/live/tura/123456/2561.ts
+#EXTINF:-1,ES: Boomerang LT
+http://e2.iudtv.org:8080/live/tura/123456/2597.ts
+#EXTINF:-1,ES: ALL Sports LT
+http://e2.iudtv.org:8080/live/tura/123456/2593.ts
+#EXTINF:-1,ES: Max UP HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2620.ts
+#EXTINF:-1,ES: HB TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2637.ts
+#EXTINF:-1,ES: Azteca Corazon LT
+http://e2.iudtv.org:8080/live/tura/123456/2559.ts
+#EXTINF:-1,ES: Warner TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2574.ts
+#EXTINF:-1,ES: Cinecanal LT
+http://e2.iudtv.org:8080/live/tura/123456/2562.ts
+#EXTINF:-1,ES: Sony HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2631.ts
+#EXTINF:-1,ES: Discovery TLC LT
+http://e2.iudtv.org:8080/live/tura/123456/2635.ts
+#EXTINF:-1,ES: Disny HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2638.ts
+#EXTINF:-1,ES: Animal Planet LT
+http://e2.iudtv.org:8080/live/tura/123456/2643.ts
+#EXTINF:-1,ES: Cinemax LT
+http://e2.iudtv.org:8080/live/tura/123456/2645.ts
+#EXTINF:-1,ES: Comedy Central HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2633.ts
+#EXTINF:-1,ES: Golden Edge LT
+http://e2.iudtv.org:8080/live/tura/123456/2651.ts
+#EXTINF:-1,ES: Discovery Science LT
+http://e2.iudtv.org:8080/live/tura/123456/2650.ts
+#EXTINF:-1,ES: Discovery Civilization LT
+http://e2.iudtv.org:8080/live/tura/123456/2646.ts
+#EXTINF:-1,ES: National.Geographic LT
+http://e2.iudtv.org:8080/live/tura/123456/2647.ts
+#EXTINF:-1,ES: Nickelodeon LT
+http://e2.iudtv.org:8080/live/tura/123456/2644.ts
+#EXTINF:-1,ES: Discovery Home & Health LT
+http://e2.iudtv.org:8080/live/tura/123456/2652.ts
+#EXTINF:-1,ES: Investigation Discovery LT
+http://e2.iudtv.org:8080/live/tura/123456/2653.ts
+#EXTINF:-1,ES: Discovery Turbo LT
+http://e2.iudtv.org:8080/live/tura/123456/2654.ts
+#EXTINF:-1,ES: G Premer LT
+http://e2.iudtv.org:8080/live/tura/123456/2655.ts
+#EXTINF:-1,ES: Disney XD One LT
+http://e2.iudtv.org:8080/live/tura/123456/2656.ts
+#EXTINF:-1,ES: MAx Prime Este LT
+http://e2.iudtv.org:8080/live/tura/123456/2657.ts
+#EXTINF:-1,ES: Fox LT
+http://e2.iudtv.org:8080/live/tura/123456/2658.ts
+#EXTINF:-1,ES: FOX 1 LT
+http://e2.iudtv.org:8080/live/tura/123456/2641.ts
+#EXTINF:-1,ES: Fox Series LT
+http://e2.iudtv.org:8080/live/tura/123456/2550.ts
+#EXTINF:-1,ES: Fox Classics LT
+http://e2.iudtv.org:8080/live/tura/123456/2661.ts
+#EXTINF:-1,ES: Fox Action LT
+http://e2.iudtv.org:8080/live/tura/123456/2659.ts
+#EXTINF:-1,ES: Fox Cinema LT
+http://e2.iudtv.org:8080/live/tura/123456/2660.ts
+#EXTINF:-1,ES: Fox Family LT
+http://e2.iudtv.org:8080/live/tura/123456/2663.ts
+#EXTINF:-1,ES: True TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2664.ts
+#EXTINF:-1,ES: Fox Movies LT
+http://e2.iudtv.org:8080/live/tura/123456/2665.ts
+#EXTINF:-1,ES: Discovery Kids LT
+http://e2.iudtv.org:8080/live/tura/123456/2601.ts
+#EXTINF:-1,ES: Esporte Interativo 2 HD BR LT
+http://e2.iudtv.org:8080/live/tura/123456/2605.ts
+#EXTINF:-1,ES: Chile CNN LT
+http://e2.iudtv.org:8080/live/tura/123456/2662.ts
+#EXTINF:-1,ES: A&E LT
+http://e2.iudtv.org:8080/live/tura/123456/2666.ts
+#EXTINF:-1,ES: Chile UC13 LT
+http://e2.iudtv.org:8080/live/tura/123456/2675.ts
+#EXTINF:-1,ES: Chile Portal Foxmix LT
+http://e2.iudtv.org:8080/live/tura/123456/2676.ts
+#EXTINF:-1,ES: La Mega Mundial LT
+http://e2.iudtv.org:8080/live/tura/123456/2667.ts
+#EXTINF:-1,ES: Chile Pinguino TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2584.ts
+#EXTINF:-1,ES: CHILE VTV
+http://e2.iudtv.org:8080/live/tura/123456/1052.ts
+#EXTINF:-1,ES: Chile 18 Carnaval
+http://e2.iudtv.org:8080/live/tura/123456/1044.ts
+#EXTINF:-1,ES: NICK JR LT
+http://e2.iudtv.org:8080/live/tura/123456/2632.ts
+#EXTINF:-1,ES: Chile Mega LT
+http://e2.iudtv.org:8080/live/tura/123456/2678.ts
+#EXTINF:-1,ES: AMC LT
+http://e2.iudtv.org:8080/live/tura/123456/2603.ts
+#EXTINF:-1,ES: FX LT
+http://e2.iudtv.org:8080/live/tura/123456/2668.ts
+#EXTINF:-1,ES: H2 LT
+http://e2.iudtv.org:8080/live/tura/123456/2669.ts
+#EXTINF:-1,ES: Tooncast LT
+http://e2.iudtv.org:8080/live/tura/123456/2670.ts
+#EXTINF:-1,ES: Ei TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2671.ts
+#EXTINF:-1,ES: TV Publica LT
+http://e2.iudtv.org:8080/live/tura/123456/2673.ts
+#EXTINF:-1,ES: Canal22 LT
+http://e2.iudtv.org:8080/live/tura/123456/2672.ts
+#EXTINF:-1,ES: Claro Sports HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2674.ts
+#EXTINF:-1,ES: Space LT
+http://e2.iudtv.org:8080/live/tura/123456/2677.ts
+#EXTINF:-1,ES: Universal Channel HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2679.ts
+#EXTINF:-1,ES: TV Music LT
+http://e2.iudtv.org:8080/live/tura/123456/2582.ts
+#EXTINF:-1,ES: YLE TV 1 LT
+http://e2.iudtv.org:8080/live/tura/123456/2639.ts
+#EXTINF:-1,ES: FXM LT
+http://e2.iudtv.org:8080/live/tura/123456/2570.ts
+#EXTINF:-1,ES: HBO Signature BR
+http://e2.iudtv.org:8080/live/tura/123456/2564.ts
+#EXTINF:-1,ES: El 1 Web TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2569.ts
+#EXTINF:-1,ES:Cinema Dinamita LT
+http://e2.iudtv.org:8080/live/tura/123456/2572.ts
+#EXTINF:-1,ES: Religion LT
+http://e2.iudtv.org:8080/live/tura/123456/2554.ts
+#EXTINF:-1,ES: Telpin HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2560.ts
+#EXTINF:-1,ES: Noticias ForoTV LT
+http://e2.iudtv.org:8080/live/tura/123456/2606.ts
+#EXTINF:-1,ES: Mega TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2557.ts
+#EXTINF:-1,ES: America TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2602.ts
+#EXTINF:-1,ES: Hola TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2604.ts
+#EXTINF:-1,ES: COS LT
+http://e2.iudtv.org:8080/live/tura/123456/2578.ts
+#EXTINF:-1,ES: Max Prime LT
+http://e2.iudtv.org:8080/live/tura/123456/2598.ts
+#EXTINF:-1,ES: Canal 10 Chetumal LT
+http://e2.iudtv.org:8080/live/tura/123456/2565.ts
+#EXTINF:-1,ES: Extrema HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2607.ts
+#EXTINF:-1,ES: Channel 8 LT
+http://e2.iudtv.org:8080/live/tura/123456/2610.ts
+#EXTINF:-1,ES: Sevilla FC TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2608.ts
+#EXTINF:-1,ES: MAX 2 LT
+http://e2.iudtv.org:8080/live/tura/123456/2609.ts
+#EXTINF:-1,ES: Neox HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2577.ts
+#EXTINF:-1,ES: Multimedios LT
+http://e2.iudtv.org:8080/live/tura/123456/2576.ts
+#EXTINF:-1,ES: HBO Plus LT
+http://e2.iudtv.org:8080/live/tura/123456/2555.ts
+#EXTINF:-1,ES: CGTN LT
+http://e2.iudtv.org:8080/live/tura/123456/2592.ts
+#EXTINF:-1,ES: Atreseries LT
+http://e2.iudtv.org:8080/live/tura/123456/2594.ts
+#EXTINF:-1,ES: Tru TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2551.ts
+#EXTINF:-1,ES: Canal Once LT
+http://e2.iudtv.org:8080/live/tura/123456/2575.ts
+#EXTINF:-1,ES: Kids TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2547.ts
+#EXTINF:-1,ES: Gong LT
+http://e2.iudtv.org:8080/live/tura/123456/2563.ts
+#EXTINF:-1,ES: E! Entertainment  LT
+http://e2.iudtv.org:8080/live/tura/123456/2552.ts
+#EXTINF:-1,ES: TNT Sports LT
+http://e2.iudtv.org:8080/live/tura/123456/2573.ts
+#EXTINF:-1,ES: TVP MAZATLÁN LT
+http://e2.iudtv.org:8080/live/tura/123456/2553.ts
+#EXTINF:-1,ES: TBS LT
+http://e2.iudtv.org:8080/live/tura/123456/2556.ts
+#EXTINF:-1,ES: DMX TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2581.ts
+#EXTINF:-1,ES: Atomic LT
+http://e2.iudtv.org:8080/live/tura/123456/2580.ts
+#EXTINF:-1,ES: TDN Sports LT
+http://e2.iudtv.org:8080/live/tura/123456/2548.ts
+#EXTINF:-1,ES: A3S LT
+http://e2.iudtv.org:8080/live/tura/123456/2579.ts
+#EXTINF:-1,ES: Raport LT
+http://e2.iudtv.org:8080/live/tura/123456/2546.ts
+#EXTINF:-1,ES: Cartoon tv LT
+http://e2.iudtv.org:8080/live/tura/123456/2566.ts
+#EXTINF:-1,ES: 44 Mexico LT
+http://e2.iudtv.org:8080/live/tura/123456/2549.ts
+#EXTINF:-1,ES: Fox Sports LT
+http://e2.iudtv.org:8080/live/tura/123456/2568.ts
+#EXTINF:-1,ES: AXN HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2611.ts
+#EXTINF:-1,ES: Canal Sony HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2618.ts
+#EXTINF:-1,ES: Canal 5 HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2622.ts
+#EXTINF:-1,ES: COSFC LT
+http://e2.iudtv.org:8080/live/tura/123456/2612.ts
+#EXTINF:-1,ES: Elgourmet LT
+http://e2.iudtv.org:8080/live/tura/123456/2614.ts
+#EXTINF:-1,ES: Claro Sports LT
+http://e2.iudtv.org:8080/live/tura/123456/2619.ts
+#EXTINF:-1,ES: Fox Sport 2 LT
+http://e2.iudtv.org:8080/live/tura/123456/2613.ts
+#EXTINF:-1,ES: HBO 2 LT
+http://e2.iudtv.org:8080/live/tura/123456/2623.ts
+#EXTINF:-1,ES: PPV Rock Dog LT
+http://e2.iudtv.org:8080/live/tura/123456/2617.ts
+#EXTINF:-1,ES: TyC Sports LT
+http://e2.iudtv.org:8080/live/tura/123456/2615.ts
+#EXTINF:-1,ES: Marbella TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2616.ts
+#EXTINF:-1,ES: NEX TV LT
+http://e2.iudtv.org:8080/live/tura/123456/2621.ts
+#EXTINF:-1,ES: Estuuniv LT
+http://e2.iudtv.org:8080/live/tura/123456/2627.ts
+#EXTINF:-1,ES: Multi Premiere LT
+http://e2.iudtv.org:8080/live/tura/123456/2628.ts
+#EXTINF:-1,ES: Paramount LT
+http://e2.iudtv.org:8080/live/tura/123456/2624.ts
+#EXTINF:-1,ES: Fox Premium Family LT
+http://e2.iudtv.org:8080/live/tura/123456/2625.ts
+#EXTINF:-1,ES: Canal Provincial LT
+http://e2.iudtv.org:8080/live/tura/123456/2629.ts
+#EXTINF:-1,ES: Tv Senado HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2626.ts
+#EXTINF:-1,ES: Comedy Central LT
+http://e2.iudtv.org:8080/live/tura/123456/2630.ts
+#EXTINF:-1,ES: TNT HD LT
+http://e2.iudtv.org:8080/live/tura/123456/2634.ts
+#EXTINF:-1,ES: Lilfe TIME LT
+http://e2.iudtv.org:8080/live/tura/123456/2636.ts
+#EXTINF:-1,ES: TV Marti LT
+http://e2.iudtv.org:8080/live/tura/123456/2640.ts
+#EXTINF:-1,ES: Fox Sports2 LT
+http://e2.iudtv.org:8080/live/tura/123456/2642.ts
+#EXTINF:-1,ES: La Semana LT
+http://e2.iudtv.org:8080/live/tura/123456/2648.ts
+#EXTINF:-1,ES: RTVA LT
+http://e2.iudtv.org:8080/live/tura/123456/2649.ts
